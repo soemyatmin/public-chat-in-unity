@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325345599604",
+    "firebase_url": "https://unitychatpublicapp.firebaseio.com",
+    "project_id": "unitychatpublicapp",
+    "storage_bucket": "unitychatpublicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325345599604:android:0ae736683c4c79e0afb121",
+        "android_client_info": {
+          "package_name": "com.vcit.UnityChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325345599604-u9avdfgoapj1dvuugv7urer4bik4j68c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkSiyW0AAeJHe6HTPNQFHzkvyllywJuzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325345599604-u9avdfgoapj1dvuugv7urer4bik4j68c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
